@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chandan Chaudhary
 
-💻 **Full Stack Developer | Problem Solver | Tech Enthusiast**  
+💻 **Full Stack Developer | .NET Developer | Problem Solver | Tech Enthusiast**  
 I'm passionate about building scalable, user-focused applications and solving real-world problems with clean, efficient code.  
 Currently seeking **entry-level opportunities** in full-stack development while continuously learning and contributing to open-source and personal projects.
 
