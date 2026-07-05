@@ -27,7 +27,7 @@ I'm a Computer Science graduate and Full-Stack Developer passionate about buildi
 My experience includes developing full-stack applications, designing REST APIs, implementing authentication and authorization systems, integrating databases and AI-powered features, and contributing to open-source projects.
 
 * 🔭 Building and improving production-style full-stack applications.
-* 🌱 Expanding my knowledge of Cloud, DevOps, System Design, and Backend Architecture.
+* 🌱 Expanding my knowledge of Cloud, System Design, and Backend Architecture.
 * 👨‍💻 Contributing to open-source projects and collaborating through Git and GitHub workflows.
 * 💬 Ask me about React, Node.js, Express.js, MongoDB, REST APIs, Git, and GitHub.
 * 🎯 Interested in Full-Stack, Backend, MERN Stack, and .NET development opportunities.
