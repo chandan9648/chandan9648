@@ -137,10 +137,10 @@ My open-source experience includes:
 
 ## 📈 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chandan9648&show_icons=true&theme=github_dark&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan9648&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan9648&theme=github-dark-blue&hide_border=true" />
