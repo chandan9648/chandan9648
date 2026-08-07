@@ -181,5 +181,5 @@ If you're working on an interesting project, hiring developers, or looking for a
 </p>
 
 <p align="center">
-  <i>Building better software, one commit at a time.</i>
+  <i>Building better software, one commit at a time</i>
 </p>
