@@ -138,43 +138,43 @@ My open-source experience includes:
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=chandan9648&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="180"
-    alt="Chandan's GitHub Stats"
+    src="./profile/stats.svg"
+    width="49%"
+    alt="GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan9648&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    height="180"
-    alt="Chandan's Top Languages"
+    src="./profile/top-langs.svg"
+    width="49%"
+    alt="Top Languages"
   />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=chandan9648&theme=github-dark-blue&hide_border=true"
-    alt="Chandan's GitHub Streak"
+    alt="GitHub Streak"
   />
 </p>
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=chandan9648&theme=github-compact&hide_border=true&area=true"
-    alt="Chandan's GitHub Activity Graph"
+    width="100%"
+    alt="GitHub Activity Graph"
   />
 </p>
-
 ---
 
 ## 🤝 Let's Connect
