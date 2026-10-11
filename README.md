@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://chandanchaudhary.me">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
   </a>
   <a href="https://www.linkedin.com/in/chandan-310156273">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="mailto:chandankkumar156@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
 </p>
 
@@ -142,13 +142,16 @@ My open-source experience includes:
 
 <p align="center">
   <img
-    src="./profile/stats.svg"
-    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=chandan9648&show_icons=true&count_private=true&theme=github_dark&hide_border=true"
+    width="100%"
     alt="GitHub Statistics"
   />
+</p>
+
+<p align="center">
   <img
-    src="./profile/top-langs.svg"
-    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan9648&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    width="100%"
     alt="Top Languages"
   />
 </p>
@@ -175,6 +178,7 @@ My open-source experience includes:
     alt="GitHub Activity Graph"
   />
 </p>
+
 ---
 
 ## 🤝 Let's Connect
