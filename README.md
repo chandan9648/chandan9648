@@ -142,7 +142,7 @@ My open-source experience includes:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=chandan9648&show_icons=true&count_private=true&theme=github_dark&hide_border=true"
+    src="https://YOUR-STATS-URL.vercel.app/api?username=chandan9648&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true"
     width="100%"
     alt="GitHub Statistics"
   />
@@ -150,7 +150,7 @@ My open-source experience includes:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan9648&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    src="https://YOUR-STATS-URL.vercel.app/api/top-langs/?username=chandan9648&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
     width="100%"
     alt="Top Languages"
   />
@@ -173,7 +173,7 @@ My open-source experience includes:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=chandan9648&theme=github-compact&hide_border=true&area=true"
+    src="https://YOUR-GRAPH-URL.vercel.app/graph?username=chandan9648&theme=github-compact&hide_border=true&area=true"
     width="100%"
     alt="GitHub Activity Graph"
   />
